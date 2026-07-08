@@ -1,0 +1,81 @@
+# Core Data Science
+numpy
+pandas
+scipy
+scikit-learn
+joblib
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Jupyter
+jupyter
+jupyterlab
+notebook
+ipykernel
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+tensorflow
+
+# Computer Vision
+opencv-python
+Pillow
+
+# NLP
+nltk
+spacy
+transformers
+sentencepiece
+
+# Data Collection
+requests
+httpx
+beautifulsoup4
+selenium
+
+# Databases
+sqlalchemy
+pymysql
+psycopg2-binary
+
+# Explainability
+shap
+lime
+
+# Hyperparameter Tuning
+optuna
+
+# Model Tracking
+mlflow
+
+# Environment Variables
+python-dotenv
+
+# Gradient Boosting
+xgboost
+lightgbm
+catboost
+
+# Generative AI / LLMs
+openai
+langchain
+langchain-community
+langchain-core
+chromadb
+faiss-cpu
+sentence-transformers
+tiktoken
+
+# Web Apps
+streamlit
+gradio
+
+# Development Tools
+black
+flake8
+pytest
