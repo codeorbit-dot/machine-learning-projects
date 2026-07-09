@@ -18,5 +18,5 @@ Quick start (Windows PowerShell):
    .venv\Scripts\python.exe -m notebook
 
 Notes:
-- Kernel display name will be "Python (all4)".
-- To reuse the environment in VS Code, select the `Python (all4)` kernel from the kernel picker.
+- Kernel display name will be "Python (all)".
+- To reuse the environment in VS Code, select the `Python (all)` kernel from the kernel picker.
