@@ -1,0 +1,15 @@
+PERSONAL KNOWLEDGE MANAGER REPORT
+========================================
+
+Article -> sunt aut facere repellat provident occaecati excepturi optio reprehenderit
+Article -> qui est esse
+Article -> ea molestias quasi exercitationem repellat qui ipsa sit aut
+Article -> eum et est occaecati
+Article -> nesciunt quas odio
+Article -> dolorem eum magni eos aperiam quia
+Article -> magnam facilis autem
+Article -> dolorem dolore est ipsam
+Article -> nesciunt iure omnis dolorem tempora et accusantium
+Article -> optio molestias id quia eum
+Note -> Learn Decorators
+Note -> Practice Generators

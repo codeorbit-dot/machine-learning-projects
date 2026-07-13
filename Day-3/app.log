@@ -7,3 +7,6 @@
 INFO:root:Program Started
 WARNING:root:Warning Message
 ERROR:root:Error Message
+INFO:root:Program Started
+WARNING:root:Warning Message
+ERROR:root:Error Message
